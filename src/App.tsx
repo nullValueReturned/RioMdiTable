@@ -10,6 +10,7 @@ function App() {
   const [data, setData] = useState<{ rankedTeams: IRankedTeams[] }>({
     rankedTeams: myData,
   });
+  const [hasUpdatedData, setHasUpdatedData] = useState(false);
 
   const handleUpdateData = () => {
     const textarea = document.getElementById("textarea") as HTMLTextAreaElement;
@@ -17,6 +18,10 @@ function App() {
       const newData = JSON.parse(textarea.value);
       if (Array.isArray(newData.rankedTeams)) {
         setData({ rankedTeams: newData.rankedTeams });
+        setHasUpdatedData(true);
+        // clear textarea after successful update
+        textarea.value = "";
+        setTimeout(() => setHasUpdatedData(false), 5000);
       } else {
         alert(
           "Invalid data format. Please provide an object with a rankedTeams array."
@@ -31,7 +36,7 @@ function App() {
       <div className="updateDataRow">
         <textarea id="textarea" className="updateDataTextArea" />
         <button onClick={handleUpdateData} className="updateDataButton">
-          Update Data
+          {hasUpdatedData ? "Updated!" : "Update Data"}
         </button>
       </div>
       <MyComp myData={data.rankedTeams} />
