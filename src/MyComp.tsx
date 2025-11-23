@@ -1,4 +1,4 @@
-import data from "./data.json";
+import { useCallback } from "react";
 import RunInfo from "./RunInfo";
 import type { IRankedTeams, Run } from "./types/IRankedTeams";
 
@@ -71,10 +71,15 @@ const getDungeonScoreAndTimeFromRun = (run: Run | undefined) => {
   return { dungeonScore, formattedTime };
 };
 
-const myData: IRankedTeams[] = data;
 
-// check if the given run is the global best run for the dungeon for all teams
-const isGlobalBestRunForDungeon = (run: Run, dungeonName: TDungeon) => {
+
+type MyCompProps = {
+  myData: IRankedTeams[];
+};
+
+const MyComp = ({ myData }: MyCompProps) => {
+  // check if the given run is the global best run for the dungeon for all teams
+const isGlobalBestRunForDungeon = useCallback((run: Run, dungeonName: TDungeon) => {
   const dungeonRunsForDugeon = myData.map(team => getDungeonRunFromRun(team.runs, dungeonName)).filter(r => r !== undefined) as Run[];
   const bestRun = dungeonRunsForDugeon.reduce((best, current) => {
     return current.mythicLevel > best.mythicLevel ||
@@ -83,10 +88,7 @@ const isGlobalBestRunForDungeon = (run: Run, dungeonName: TDungeon) => {
       : best;
   }, dungeonRunsForDugeon[0]);
   return run.loggedRunId === bestRun.loggedRunId;
-};
-
-const MyComp = () => {
-  console.log("Data loaded:", myData);
+}, [myData]); 
   return (
     <div className="my-app">
       {
