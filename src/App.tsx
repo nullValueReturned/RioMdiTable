@@ -30,7 +30,9 @@ function App() {
     <>
       <div className="updateDataRow">
         <textarea id="textarea" className="updateDataTextArea" />
-        <button onClick={handleUpdateData} className="updateDataButton">Update Data</button>
+        <button onClick={handleUpdateData} className="updateDataButton">
+          Update Data
+        </button>
       </div>
       <MyComp myData={data.rankedTeams} />
     </>
