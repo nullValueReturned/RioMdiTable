@@ -2,8 +2,8 @@ import { useCallback } from "react";
 import RunInfo from "./RunInfo";
 import type { IRankedTeams, Run } from "../types/IRankedTeams";
 
-type TDungeon = "Ara-kara" | "HoA" | "PSF" | "Flood" | "Streets";
-const AllDungeons: TDungeon[] = ["Ara-kara", "HoA", "PSF", "Flood", "Streets"];
+type TDungeon = "Ara-kara" | "HoA" | "PSF" | "Floodgate" | "Streets";
+const AllDungeons: TDungeon[] = ["Ara-kara", "HoA", "PSF", "Floodgate", "Streets"];
 
 const zoneIdToName: (zoneId: number) => TDungeon | "Unknown" = (
   zoneId: number
@@ -16,7 +16,7 @@ const zoneIdToName: (zoneId: number) => TDungeon | "Unknown" = (
     case 14954:
       return "PSF";
     case 15452:
-      return "Flood";
+      return "Floodgate";
     case 1000000:
       return "Streets";
     default:
@@ -88,9 +88,10 @@ const MyComp = ({ myData }: MyCompProps) => {
     [myData]
   );
   return (
-    <div className="my-app">
+    <div className="mdiTableWrapper">
+        <h3>Mythic Dungeon International Standings</h3>
       {
-        <table className="my-table">
+        <table className="mdiTable">
           <thead>
             <tr>
               <th className="rankRow">#</th>
