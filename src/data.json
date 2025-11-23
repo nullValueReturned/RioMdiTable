@@ -1,0 +1,3426 @@
+[
+    {
+        "rank": 1,
+        "score": 113.13918811083332,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35909851,
+                "clearTimeMs": 1772478,
+                "mythicLevel": 23,
+                "score": 530.6,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10346156,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35738670,
+                "clearTimeMs": 1854700,
+                "mythicLevel": 23,
+                "score": 531.3,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10298499,
+                "numChests": 1
+            },
+            {
+                "zoneId": 1000000,
+                "keystoneRunId": 35904000,
+                "clearTimeMs": 1911963,
+                "mythicLevel": 23,
+                "score": 533.4,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10343336,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35749662,
+                "clearTimeMs": 1914824,
+                "mythicLevel": 22,
+                "score": 515.7,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10303170,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15452,
+                "keystoneRunId": 35914400,
+                "clearTimeMs": 1948836,
+                "mythicLevel": 22,
+                "score": 515.6,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10348116,
+                "numChests": 1
+            }
+        ],
+        "id": 328113185,
+        "name": "Team 328113185",
+        "platoon": {
+            "id": 55337,
+            "name": "Missed Count",
+            "short_name": "Missed Count",
+            "slug": "missed-count",
+            "logo": null
+        },
+        "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+        },
+        "logo": "https://u-wowretail.raiderio.net/108f/2024/11/01/Iz8Re3wCULNVFwt9Yokoe92YaE/image.png",
+        "tournamentRegion": {
+            "name": "Europe",
+            "short_name": "Europe",
+            "slug": "europe"
+        },
+        "members": [
+            {
+                "role": "dps",
+                "character": {
+                    "id": 221492379,
+                    "persona_id": 0,
+                    "name": "Hearthjacks-221492379",
+                    "class": {
+                        "id": 8,
+                        "name": "Mage",
+                        "slug": "mage"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 64,
+                        "name": "Frost",
+                        "slug": "frost",
+                        "class_id": 8,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Hearthjacks-221492379",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "tank",
+                "character": {
+                    "id": 228770890,
+                    "persona_id": 52106109,
+                    "name": "Kiradh",
+                    "class": {
+                        "id": 12,
+                        "name": "Demon Hunter",
+                        "slug": "demon-hunter"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 581,
+                        "name": "Vengeance",
+                        "slug": "vengeance",
+                        "class_id": 12,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "7.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Kiradh",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 234405989,
+                    "persona_id": 53579824,
+                    "name": "Yarrgidudu",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 102,
+                        "name": "Balance",
+                        "slug": "balance",
+                        "class_id": 11,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Yarrgidudu",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 237950870,
+                    "persona_id": 54448125,
+                    "name": "Verbdk",
+                    "class": {
+                        "id": 6,
+                        "name": "Death Knight",
+                        "slug": "death-knight"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 251,
+                        "name": "Frost",
+                        "slug": "frost",
+                        "class_id": 6,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "3.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Verbdk",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "healer",
+                "character": {
+                    "id": 237960150,
+                    "persona_id": 55742885,
+                    "name": "Ayijejo",
+                    "class": {
+                        "id": 2,
+                        "name": "Paladin",
+                        "slug": "paladin"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 65,
+                        "name": "Holy",
+                        "slug": "holy",
+                        "class_id": 2,
+                        "role": "healer",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Ayijejo",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": {
+            "id": 52089,
+            "groupId": 2133389,
+            "name": "Missed Count",
+            "type": 3,
+            "slug": "missed-count",
+            "region": {
+                "id": 2,
+                "name": "United States & Oceania",
+                "short_name": "US",
+                "slug": "us",
+                "created_at": "2017-01-17T01:06:34.000Z",
+                "updated_at": "2017-01-17T01:06:34.000Z",
+                "deleted_at": null
+            },
+            "teamEventProfileUrl": "/event-teams/mythic-dungeon-international/missed-count",
+            "owner": {
+                "name": "Ayije",
+                "avatar": "classicon_priest",
+                "profile_privacy": "private",
+                "id": 775983
+            },
+            "faction": "mixed",
+            "members": [
+                {
+                    "name": "Kiratank",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 50266,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Takafumi",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 444292,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "yarrgi",
+                    "avatar": "",
+                    "profile_privacy": "private",
+                    "id": 748534,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Verbia",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 821870,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Ayije",
+                    "avatar": "classicon_priest",
+                    "profile_privacy": "private",
+                    "id": 775983,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                }
+            ],
+            "status": "eligible",
+            "bracketTeam": {
+                "id": 6153,
+                "bracketId": 271,
+                "teamId": 52089,
+                "bracketTeamName": "Missed Count",
+                "regionId": null,
+                "subRegionId": null,
+                "registered": true,
+                "seed": null,
+                "checkedInAt": null,
+                "checkedOutAt": null,
+                "points": 0,
+                "noteHtml": null,
+                "noteIcon": null,
+                "createdAt": "2025-11-19T02:43:02Z"
+            }
+        }
+    },
+    {
+        "rank": 2,
+        "score": 113.13918620583333,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35922284,
+                "clearTimeMs": 1702377,
+                "mythicLevel": 23,
+                "score": 532.1,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10351303,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35919527,
+                "clearTimeMs": 1874468,
+                "mythicLevel": 23,
+                "score": 530.9,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10349887,
+                "numChests": 1
+            },
+            {
+                "zoneId": 1000000,
+                "keystoneRunId": 35895610,
+                "clearTimeMs": 1999984,
+                "mythicLevel": 23,
+                "score": 531.8,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10339925,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35749657,
+                "clearTimeMs": 1888313,
+                "mythicLevel": 22,
+                "score": 516.2,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10303163,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15452,
+                "keystoneRunId": 35913473,
+                "clearTimeMs": 1944517,
+                "mythicLevel": 22,
+                "score": 515.7,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10347439,
+                "numChests": 1
+            }
+        ],
+        "id": 371281719,
+        "name": "Team 371281719",
+        "platoon": {
+            "id": 56350,
+            "name": "Liquid",
+            "short_name": "Liquid",
+            "slug": "liquid",
+            "logo": null
+        },
+        "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+        },
+        "logo": "https://u-wowretail.raiderio.net/28d1/2025/02/24/NfQeWujdaKUAKUVS8eUQuDeo3H/image.png",
+        "tournamentRegion": {
+            "name": "Europe",
+            "short_name": "Europe",
+            "slug": "europe"
+        },
+        "members": [
+            {
+                "role": "dps",
+                "character": {
+                    "id": 207349591,
+                    "persona_id": 47620332,
+                    "name": "Wolfdiscokid-207349591",
+                    "class": {
+                        "id": 3,
+                        "name": "Hunter",
+                        "slug": "hunter"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 253,
+                        "name": "Beast Mastery",
+                        "slug": "beast-mastery",
+                        "class_id": 3,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Wolfdiscokid-207349591",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "healer",
+                "character": {
+                    "id": 229712287,
+                    "persona_id": 52094095,
+                    "name": "Xeseviboom",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 105,
+                        "name": "Restoration",
+                        "slug": "restoration",
+                        "class_id": 11,
+                        "role": "healer",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 3
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Xeseviboom",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 249666965,
+                    "persona_id": 56048280,
+                    "name": "Ashinedkk",
+                    "class": {
+                        "id": 6,
+                        "name": "Death Knight",
+                        "slug": "death-knight"
+                    },
+                    "race": {
+                        "id": 36,
+                        "name": "Mag'har Orc",
+                        "slug": "maghar-orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 251,
+                        "name": "Frost",
+                        "slug": "frost",
+                        "class_id": 6,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "3.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Ashinedkk",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 249666966,
+                    "persona_id": 56048289,
+                    "name": "Boomie",
+                    "class": {
+                        "id": 7,
+                        "name": "Shaman",
+                        "slug": "shaman"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 262,
+                        "name": "Elemental",
+                        "slug": "elemental",
+                        "class_id": 7,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Boomie",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "tank",
+                "character": {
+                    "id": 249666967,
+                    "persona_id": 56048278,
+                    "name": "Yipz",
+                    "class": {
+                        "id": 1,
+                        "name": "Warrior",
+                        "slug": "warrior"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 73,
+                        "name": "Protection",
+                        "slug": "protection",
+                        "class_id": 1,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Yipz",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": {
+            "id": 54800,
+            "groupId": 2275951,
+            "name": "Liquid",
+            "type": 3,
+            "slug": "liquid",
+            "region": {
+                "id": 2,
+                "name": "United States & Oceania",
+                "short_name": "US",
+                "slug": "us",
+                "created_at": "2017-01-17T01:06:34.000Z",
+                "updated_at": "2017-01-17T01:06:34.000Z",
+                "deleted_at": null
+            },
+            "teamEventProfileUrl": "/event-teams/mythic-dungeon-international/liquid",
+            "owner": {
+                "name": "Boomiexd",
+                "avatar": "ability_evoker_stasis",
+                "profile_privacy": "private",
+                "id": 277162
+            },
+            "faction": "mixed",
+            "members": [
+                {
+                    "name": "Ravedisco",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 47745,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "yipperz",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 79172,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Ashine",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 267635,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Xesevi",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 338556,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Boomiexd",
+                    "avatar": "ability_evoker_stasis",
+                    "profile_privacy": "private",
+                    "id": 277162,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                }
+            ],
+            "status": "eligible",
+            "bracketTeam": {
+                "id": 6156,
+                "bracketId": 271,
+                "teamId": 54800,
+                "bracketTeamName": "Liquid",
+                "regionId": null,
+                "subRegionId": null,
+                "registered": true,
+                "seed": null,
+                "checkedInAt": null,
+                "checkedOutAt": null,
+                "points": 0,
+                "noteHtml": null,
+                "noteIcon": null,
+                "createdAt": "2025-11-19T02:43:19Z"
+            }
+        }
+    },
+    {
+        "rank": 3,
+        "score": 112.13882725,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35747599,
+                "clearTimeMs": 1736695,
+                "mythicLevel": 23,
+                "score": 531.3,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10302886,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35742701,
+                "clearTimeMs": 1858012,
+                "mythicLevel": 23,
+                "score": 531.2,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10300233,
+                "numChests": 1
+            },
+            {
+                "zoneId": 1000000,
+                "keystoneRunId": 35900340,
+                "clearTimeMs": 1991579,
+                "mythicLevel": 23,
+                "score": 532,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10341430,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35913658,
+                "clearTimeMs": 1899096,
+                "mythicLevel": 22,
+                "score": 516,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10347668,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15452,
+                "keystoneRunId": 35904381,
+                "clearTimeMs": 1776518,
+                "mythicLevel": 21,
+                "score": 503.9,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10343794,
+                "numChests": 1
+            }
+        ],
+        "id": 327996640,
+        "name": "Team 327996640",
+        "platoon": {
+            "id": 55427,
+            "name": "HOLY Method",
+            "short_name": "HOLY Method",
+            "slug": "holy-method",
+            "logo": null
+        },
+        "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+        },
+        "logo": "https://u-wowretail.raiderio.net/4bb8/2025/05/01/8XmQJ2e3Aqb4HpxSUGkJLSFVSh/image.png",
+        "tournamentRegion": {
+            "name": "Europe",
+            "short_name": "Europe",
+            "slug": "europe"
+        },
+        "members": [
+            {
+                "role": "dps",
+                "character": {
+                    "id": 193898628,
+                    "persona_id": 0,
+                    "name": "Fragoat-193898628",
+                    "class": {
+                        "id": 6,
+                        "name": "Death Knight",
+                        "slug": "death-knight"
+                    },
+                    "race": {
+                        "id": 34,
+                        "name": "Dark Iron Dwarf",
+                        "slug": "dark-iron-dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 252,
+                        "name": "Unholy",
+                        "slug": "unholy",
+                        "class_id": 6,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "3.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Fragoat-193898628",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 207786686,
+                    "persona_id": 0,
+                    "name": "Wildi-207786686",
+                    "class": {
+                        "id": 8,
+                        "name": "Mage",
+                        "slug": "mage"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 63,
+                        "name": "Fire",
+                        "slug": "fire",
+                        "class_id": 8,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Wildi-207786686",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "healer",
+                "character": {
+                    "id": 229806440,
+                    "persona_id": 54287842,
+                    "name": "Thanerdru",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 105,
+                        "name": "Restoration",
+                        "slug": "restoration",
+                        "class_id": 11,
+                        "role": "healer",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 3
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Thanerdru",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 231952249,
+                    "persona_id": 54198754,
+                    "name": "Wexinl",
+                    "class": {
+                        "id": 9,
+                        "name": "Warlock",
+                        "slug": "warlock"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 267,
+                        "name": "Destruction",
+                        "slug": "destruction",
+                        "class_id": 9,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Wexinl",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "tank",
+                "character": {
+                    "id": 238026773,
+                    "persona_id": 54232506,
+                    "name": "Andybetray",
+                    "class": {
+                        "id": 12,
+                        "name": "Demon Hunter",
+                        "slug": "demon-hunter"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 581,
+                        "name": "Vengeance",
+                        "slug": "vengeance",
+                        "class_id": 12,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "7.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Andybetray",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": {
+            "id": 52262,
+            "groupId": 2134036,
+            "name": "HOLY Method",
+            "type": 3,
+            "slug": "holy-method",
+            "region": {
+                "id": 2,
+                "name": "United States & Oceania",
+                "short_name": "US",
+                "slug": "us",
+                "created_at": "2017-01-17T01:06:34.000Z",
+                "updated_at": "2017-01-17T01:06:34.000Z",
+                "deleted_at": null
+            },
+            "teamEventProfileUrl": "/event-teams/mythic-dungeon-international/holy-method",
+            "owner": {
+                "name": "Gingitv",
+                "avatar": null,
+                "profile_privacy": null,
+                "id": 228398
+            },
+            "faction": "mixed",
+            "members": [
+                {
+                    "name": "spasmer1337",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 72315,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Naowh",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 79193,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "wippyq",
+                    "avatar": "spell_priest_voidflay",
+                    "profile_privacy": "public",
+                    "id": 456572,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Clickz",
+                    "avatar": "",
+                    "profile_privacy": "private",
+                    "id": 614909,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Gingitv",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 228398,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                }
+            ],
+            "status": "eligible",
+            "bracketTeam": {
+                "id": 6151,
+                "bracketId": 271,
+                "teamId": 52262,
+                "bracketTeamName": "HOLY Method",
+                "regionId": null,
+                "subRegionId": null,
+                "registered": true,
+                "seed": null,
+                "checkedInAt": null,
+                "checkedOutAt": null,
+                "points": 0,
+                "noteHtml": null,
+                "noteIcon": null,
+                "createdAt": "2025-11-19T02:42:46Z"
+            }
+        }
+    },
+    {
+        "rank": 4,
+        "score": 112.1388220411111,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35918063,
+                "clearTimeMs": 1737183,
+                "mythicLevel": 23,
+                "score": 531.3,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10349461,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35746092,
+                "clearTimeMs": 1870434,
+                "mythicLevel": 23,
+                "score": 531,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10302040,
+                "numChests": 1
+            },
+            {
+                "zoneId": 1000000,
+                "keystoneRunId": 35907895,
+                "clearTimeMs": 1983177,
+                "mythicLevel": 23,
+                "score": 532.1,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10344824,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35921423,
+                "clearTimeMs": 1938118,
+                "mythicLevel": 22,
+                "score": 515.2,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10350800,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15452,
+                "keystoneRunId": 35894001,
+                "clearTimeMs": 1751740,
+                "mythicLevel": 21,
+                "score": 504.3,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10339725,
+                "numChests": 1
+            }
+        ],
+        "id": 267756844,
+        "name": "Team 267756844",
+        "platoon": {
+            "id": 46487,
+            "name": "Mandatory",
+            "short_name": "Mandatory",
+            "slug": "mandatory",
+            "logo": null
+        },
+        "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+        },
+        "logo": "https://u-wowretail.raiderio.net/29e1/2025/01/30/Svy71yjICAP2DH7cU5CKK8P7Sa/image.png",
+        "tournamentRegion": {
+            "name": "Europe",
+            "short_name": "Europe",
+            "slug": "europe"
+        },
+        "members": [
+            {
+                "role": "dps",
+                "character": {
+                    "id": 153805371,
+                    "persona_id": 45058038,
+                    "name": "Maystined-153805371",
+                    "class": {
+                        "id": 13,
+                        "name": "Evoker",
+                        "slug": "evoker"
+                    },
+                    "race": {
+                        "id": 70,
+                        "name": "Dracthyr",
+                        "slug": "dracthyr",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 70,
+                    "spec": {
+                        "id": 1473,
+                        "name": "Augmentation",
+                        "slug": "augmentation",
+                        "class_id": 13,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "10.1.5",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Maystined-153805371",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "tank",
+                "character": {
+                    "id": 201371750,
+                    "persona_id": 47155749,
+                    "name": "Skylarkeddh-201371750",
+                    "class": {
+                        "id": 12,
+                        "name": "Demon Hunter",
+                        "slug": "demon-hunter"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 581,
+                        "name": "Vengeance",
+                        "slug": "vengeance",
+                        "class_id": 12,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "7.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Skylarkeddh-201371750",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 207421748,
+                    "persona_id": 0,
+                    "name": "Stovelawyer-207421748",
+                    "class": {
+                        "id": 4,
+                        "name": "Rogue",
+                        "slug": "rogue"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 261,
+                        "name": "Subtlety",
+                        "slug": "subtlety",
+                        "class_id": 4,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Stovelawyer-207421748",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 207832588,
+                    "persona_id": 0,
+                    "name": "Crimsd",
+                    "class": {
+                        "id": 12,
+                        "name": "Demon Hunter",
+                        "slug": "demon-hunter"
+                    },
+                    "race": {
+                        "id": 1,
+                        "name": "Human",
+                        "slug": "human",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 577,
+                        "name": "Havoc",
+                        "slug": "havoc",
+                        "class_id": 12,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "7.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Crimsd",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "healer",
+                "character": {
+                    "id": 207832589,
+                    "persona_id": 47656591,
+                    "name": "Moadform",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "id": 105,
+                        "name": "Restoration",
+                        "slug": "restoration",
+                        "class_id": 11,
+                        "role": "healer",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 3
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Moadform",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": {
+            "id": 36382,
+            "groupId": 1997401,
+            "name": "Mandatory",
+            "type": 3,
+            "slug": "mandatory",
+            "region": {
+                "id": 2,
+                "name": "United States & Oceania",
+                "short_name": "US",
+                "slug": "us",
+                "created_at": "2017-01-17T01:06:34.000Z",
+                "updated_at": "2017-01-17T01:06:34.000Z",
+                "deleted_at": null
+            },
+            "teamEventProfileUrl": "/event-teams/mythic-dungeon-international/mandatory",
+            "owner": {
+                "name": "Stovex",
+                "avatar": "spell_druid_sunfall",
+                "profile_privacy": "private",
+                "id": 933372
+            },
+            "faction": "mixed",
+            "members": [
+                {
+                    "name": "maystine",
+                    "avatar": "talentspec_druid_feral_cat",
+                    "profile_privacy": "private",
+                    "id": 43424,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Skylarked",
+                    "avatar": "",
+                    "profile_privacy": "private",
+                    "id": 119540,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "moadmoad",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 464763,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "SodaLsk",
+                    "avatar": "achievement_challengemode_auchindoun_hourglass",
+                    "profile_privacy": "private",
+                    "id": 522244,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Stovex",
+                    "avatar": "spell_druid_sunfall",
+                    "profile_privacy": "private",
+                    "id": 933372,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                }
+            ],
+            "status": "eligible",
+            "bracketTeam": {
+                "id": 6155,
+                "bracketId": 271,
+                "teamId": 36382,
+                "bracketTeamName": "Mandatory",
+                "regionId": null,
+                "subRegionId": null,
+                "registered": true,
+                "seed": null,
+                "checkedInAt": null,
+                "checkedOutAt": null,
+                "points": 0,
+                "noteHtml": null,
+                "noteIcon": null,
+                "createdAt": "2025-11-19T02:43:15Z"
+            }
+        }
+    },
+    {
+        "rank": 5,
+        "score": 109.13529120666666,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 1000000,
+                "keystoneRunId": 35904174,
+                "clearTimeMs": 2001439,
+                "mythicLevel": 23,
+                "score": 531.8,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10343359,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35744422,
+                "clearTimeMs": 1628741,
+                "mythicLevel": 22,
+                "score": 518.6,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10301088,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35731168,
+                "clearTimeMs": 1743700,
+                "mythicLevel": 22,
+                "score": 518.5,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10295503,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35741195,
+                "clearTimeMs": 1805895,
+                "mythicLevel": 21,
+                "score": 502.8,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10299562,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15452,
+                "keystoneRunId": 35889675,
+                "clearTimeMs": 1851881,
+                "mythicLevel": 21,
+                "score": 502.4,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10338331,
+                "numChests": 1
+            }
+        ],
+        "id": 382621276,
+        "name": "Team 382621276",
+        "platoon": {
+            "id": 57756,
+            "name": "Identity",
+            "short_name": "Identity",
+            "slug": "identity",
+            "logo": null
+        },
+        "region": {
+            "name": "China",
+            "slug": "cn",
+            "short_name": "CN"
+        },
+        "logo": "https://u-wowretail.raiderio.net/d068/2025/11/20/Jf4nAP8eTgPCJjLJNfjzATyG32/image.png",
+        "tournamentRegion": {
+            "name": "China",
+            "short_name": "China",
+            "slug": "china"
+        },
+        "members": [
+            {
+                "role": "dps",
+                "character": {
+                    "id": 251410252,
+                    "persona_id": 0,
+                    "name": "小心月亮",
+                    "class": {
+                        "id": 3,
+                        "name": "Hunter",
+                        "slug": "hunter"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 253,
+                        "name": "Beast Mastery",
+                        "slug": "beast-mastery",
+                        "class_id": 3,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/小心月亮",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 251410254,
+                    "persona_id": 0,
+                    "name": "Mjtzeus",
+                    "class": {
+                        "id": 7,
+                        "name": "Shaman",
+                        "slug": "shaman"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 262,
+                        "name": "Elemental",
+                        "slug": "elemental",
+                        "class_id": 7,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/Mjtzeus",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 251410256,
+                    "persona_id": 0,
+                    "name": "Pptdk",
+                    "class": {
+                        "id": 6,
+                        "name": "Death Knight",
+                        "slug": "death-knight"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 251,
+                        "name": "Frost",
+                        "slug": "frost",
+                        "class_id": 6,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "3.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/Pptdk",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "healer",
+                "character": {
+                    "id": 252671694,
+                    "persona_id": 0,
+                    "name": "Tianzuiorc",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 105,
+                        "name": "Restoration",
+                        "slug": "restoration",
+                        "class_id": 11,
+                        "role": "healer",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 3
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/Tianzuiorc",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "tank",
+                "character": {
+                    "id": 252671695,
+                    "persona_id": 0,
+                    "name": "Cherrywwar",
+                    "class": {
+                        "id": 1,
+                        "name": "Warrior",
+                        "slug": "warrior"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 73,
+                        "name": "Protection",
+                        "slug": "protection",
+                        "class_id": 1,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/Cherrywwar",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": null
+    },
+    {
+        "rank": 6,
+        "score": 109.13527043333335,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 1000000,
+                "keystoneRunId": 35896988,
+                "clearTimeMs": 2035547,
+                "mythicLevel": 23,
+                "score": 531.2,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10340224,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35729793,
+                "clearTimeMs": 1582492,
+                "mythicLevel": 22,
+                "score": 519.5,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10294983,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35750629,
+                "clearTimeMs": 1825195,
+                "mythicLevel": 22,
+                "score": 516.9,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10303562,
+                "numChests": 1
+            },
+            {
+                "zoneId": 15452,
+                "keystoneRunId": 35913841,
+                "clearTimeMs": 1798036,
+                "mythicLevel": 21,
+                "score": 503.5,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10347795,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35741078,
+                "clearTimeMs": 1865170,
+                "mythicLevel": 21,
+                "score": 501.6,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10299531,
+                "numChests": 1
+            }
+        ],
+        "id": 371320654,
+        "name": "Team 371320654",
+        "platoon": {
+            "id": 56819,
+            "name": "Antticlockwise",
+            "short_name": "Antticlockwise",
+            "slug": "antticlockwise",
+            "logo": null
+        },
+        "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+        },
+        "logo": "https://u-wowretail.raiderio.net/d76f/2025/10/25/9XusCNXtdMsiB30r1MialBUMSG/image.png",
+        "tournamentRegion": {
+            "name": "Europe",
+            "short_name": "Europe",
+            "slug": "europe"
+        },
+        "members": [
+            {
+                "role": "healer",
+                "character": {
+                    "id": 193248928,
+                    "persona_id": 0,
+                    "name": "Robin-193248928",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 28,
+                        "name": "Highmountain Tauren",
+                        "slug": "highmountain-tauren",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 60,
+                    "spec": {
+                        "name": "",
+                        "slug": ""
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Robin-193248928",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 217158420,
+                    "persona_id": 0,
+                    "name": "Nezrodh-217158420",
+                    "class": {
+                        "id": 12,
+                        "name": "Demon Hunter",
+                        "slug": "demon-hunter"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 70,
+                    "spec": {
+                        "name": "",
+                        "slug": ""
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Nezrodh-217158420",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "tank",
+                "character": {
+                    "id": 249257069,
+                    "persona_id": 56048296,
+                    "name": "Yontw",
+                    "class": {
+                        "id": 1,
+                        "name": "Warrior",
+                        "slug": "warrior"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 73,
+                        "name": "Protection",
+                        "slug": "protection",
+                        "class_id": 1,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Yontw",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 249674223,
+                    "persona_id": 56048295,
+                    "name": "Divinefieldm",
+                    "class": {
+                        "id": 3,
+                        "name": "Hunter",
+                        "slug": "hunter"
+                    },
+                    "race": {
+                        "id": 36,
+                        "name": "Mag'har Orc",
+                        "slug": "maghar-orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 253,
+                        "name": "Beast Mastery",
+                        "slug": "beast-mastery",
+                        "class_id": 3,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Divinefieldm",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 249674224,
+                    "persona_id": 56048286,
+                    "name": "Desiredcork",
+                    "class": {
+                        "id": 6,
+                        "name": "Death Knight",
+                        "slug": "death-knight"
+                    },
+                    "race": {
+                        "id": 36,
+                        "name": "Mag'har Orc",
+                        "slug": "maghar-orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 251,
+                        "name": "Frost",
+                        "slug": "frost",
+                        "class_id": 6,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "3.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Desiredcork",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": {
+            "id": 55366,
+            "groupId": 2279152,
+            "name": "Antticlockwise",
+            "type": 3,
+            "slug": "antticlockwise",
+            "region": {
+                "id": 2,
+                "name": "United States & Oceania",
+                "short_name": "US",
+                "slug": "us",
+                "created_at": "2017-01-17T01:06:34.000Z",
+                "updated_at": "2017-01-17T01:06:34.000Z",
+                "deleted_at": null
+            },
+            "teamEventProfileUrl": "/event-teams/mythic-dungeon-international/antticlockwise",
+            "owner": {
+                "name": "Robindrop",
+                "avatar": null,
+                "profile_privacy": null,
+                "id": 35034
+            },
+            "faction": "mixed",
+            "members": [
+                {
+                    "name": "Desired",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 15303,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Nezro",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 29723,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "yonteau",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 83196,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Divinefield",
+                    "avatar": "",
+                    "profile_privacy": "public",
+                    "id": 99456,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Robindrop",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 35034,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                }
+            ],
+            "status": "eligible",
+            "bracketTeam": {
+                "id": 6152,
+                "bracketId": 271,
+                "teamId": 55366,
+                "bracketTeamName": "Antticlockwise",
+                "regionId": null,
+                "subRegionId": null,
+                "registered": true,
+                "seed": null,
+                "checkedInAt": null,
+                "checkedOutAt": null,
+                "points": 0,
+                "noteHtml": null,
+                "noteIcon": null,
+                "createdAt": "2025-11-19T02:42:53Z"
+            }
+        }
+    },
+    {
+        "rank": 7,
+        "score": 65.10591243805555,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35746508,
+                "clearTimeMs": 1740282,
+                "mythicLevel": 22,
+                "score": 516.3,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10302291,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35752089,
+                "clearTimeMs": 1817622,
+                "mythicLevel": 22,
+                "score": 517,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10304240,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35727178,
+                "clearTimeMs": 1797319,
+                "mythicLevel": 21,
+                "score": 503,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10293821,
+                "numChests": 1
+            }
+        ],
+        "id": 382621402,
+        "name": "Team 382621402",
+        "platoon": {
+            "id": 57757,
+            "name": "Interrupt",
+            "short_name": "Interrupt",
+            "slug": "interrupt",
+            "logo": null
+        },
+        "region": {
+            "name": "China",
+            "slug": "cn",
+            "short_name": "CN"
+        },
+        "logo": "https://u-wowretail.raiderio.net/fb5d/2025/11/20/rzDlgdg5MzNvHuC4T5uwTAzCKz/image.png",
+        "tournamentRegion": {
+            "name": "China",
+            "short_name": "China",
+            "slug": "china"
+        },
+        "members": [
+            {
+                "role": "dps",
+                "character": {
+                    "id": 250107343,
+                    "persona_id": 0,
+                    "name": "人艰不拆猎",
+                    "class": {
+                        "id": 3,
+                        "name": "Hunter",
+                        "slug": "hunter"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 253,
+                        "name": "Beast Mastery",
+                        "slug": "beast-mastery",
+                        "class_id": 3,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/人艰不拆猎",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "tank",
+                "character": {
+                    "id": 250107345,
+                    "persona_id": 0,
+                    "name": "硬玩复仇战",
+                    "class": {
+                        "id": 1,
+                        "name": "Warrior",
+                        "slug": "warrior"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 73,
+                        "name": "Protection",
+                        "slug": "protection",
+                        "class_id": 1,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/硬玩复仇战",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "healer",
+                "character": {
+                    "id": 250107346,
+                    "persona_id": 0,
+                    "name": "乔凌嘟",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 105,
+                        "name": "Restoration",
+                        "slug": "restoration",
+                        "class_id": 11,
+                        "role": "healer",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 3
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/乔凌嘟",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 250639328,
+                    "persona_id": 0,
+                    "name": "听风矮萨",
+                    "class": {
+                        "id": 7,
+                        "name": "Shaman",
+                        "slug": "shaman"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 262,
+                        "name": "Elemental",
+                        "slug": "elemental",
+                        "class_id": 7,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/听风矮萨",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 250662870,
+                    "persona_id": 0,
+                    "name": "止戈流死骑",
+                    "class": {
+                        "id": 6,
+                        "name": "Death Knight",
+                        "slug": "death-knight"
+                    },
+                    "race": {
+                        "id": 2,
+                        "name": "Orc",
+                        "slug": "orc",
+                        "faction": "horde"
+                    },
+                    "faction": "horde",
+                    "level": 80,
+                    "spec": {
+                        "id": 251,
+                        "name": "Frost",
+                        "slug": "frost",
+                        "class_id": 6,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "3.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/cn/cn-mythic-dungeons/止戈流死骑",
+                    "realm": {
+                        "id": 2574,
+                        "connectedRealmId": 803,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4608,
+                        "name": "CN Mythic Dungeons",
+                        "altName": "CN史诗地下城",
+                        "slug": "cn-mythic-dungeons",
+                        "altSlug": "cn史诗地下城",
+                        "locale": "zh_CN",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "China",
+                        "slug": "cn",
+                        "short_name": "CN"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": null
+    },
+    {
+        "rank": 8,
+        "score": 65.105881485,
+        "scoreColor": "#ffffff",
+        "runs": [
+            {
+                "zoneId": 15093,
+                "keystoneRunId": 35727851,
+                "clearTimeMs": 1714425,
+                "mythicLevel": 22,
+                "score": 516.8,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10294279,
+                "numChests": 1
+            },
+            {
+                "zoneId": 12831,
+                "keystoneRunId": 35746095,
+                "clearTimeMs": 1826030,
+                "mythicLevel": 22,
+                "score": 516.9,
+                "period": 1038,
+                "affixes": [
+                    10,
+                    9
+                ],
+                "loggedRunId": 10302102,
+                "numChests": 1
+            },
+            {
+                "zoneId": 14954,
+                "keystoneRunId": 35751779,
+                "clearTimeMs": 1926199,
+                "mythicLevel": 21,
+                "score": 500.5,
+                "period": 1038,
+                "affixes": [
+                    9,
+                    10
+                ],
+                "loggedRunId": 10303971,
+                "numChests": 1
+            }
+        ],
+        "id": 371281812,
+        "name": "Team 371281812",
+        "platoon": {
+            "id": 56369,
+            "name": "Scaffolding",
+            "short_name": "Scaffolding",
+            "slug": "scaffolding",
+            "logo": null
+        },
+        "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+        },
+        "logo": "https://u-wowretail.raiderio.net/45dd/2025/10/30/m1vXffu9GubIhpWjAGnQHQ45t2/image.png",
+        "tournamentRegion": {
+            "name": "Europe",
+            "short_name": "Europe",
+            "slug": "europe"
+        },
+        "members": [
+            {
+                "role": "tank",
+                "character": {
+                    "id": 230743057,
+                    "persona_id": 0,
+                    "name": "Lazel-230743057",
+                    "class": {
+                        "id": 1,
+                        "name": "Warrior",
+                        "slug": "warrior"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 73,
+                        "name": "Protection",
+                        "slug": "protection",
+                        "class_id": 1,
+                        "role": "tank",
+                        "is_melee": true,
+                        "patch": "1.0.0",
+                        "ordinal": 2
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Lazel-230743057",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": true
+            },
+            {
+                "role": "healer",
+                "character": {
+                    "id": 249062072,
+                    "persona_id": 56048284,
+                    "name": "Pillowdruid",
+                    "class": {
+                        "id": 11,
+                        "name": "Druid",
+                        "slug": "druid"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 105,
+                        "name": "Restoration",
+                        "slug": "restoration",
+                        "class_id": 11,
+                        "role": "healer",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 3
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Pillowdruid",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 249154934,
+                    "persona_id": 56006914,
+                    "name": "Kronadh",
+                    "class": {
+                        "id": 12,
+                        "name": "Demon Hunter",
+                        "slug": "demon-hunter"
+                    },
+                    "race": {
+                        "id": 4,
+                        "name": "Night Elf",
+                        "slug": "night-elf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 577,
+                        "name": "Havoc",
+                        "slug": "havoc",
+                        "class_id": 12,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "7.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Kronadh",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 249666979,
+                    "persona_id": 56048252,
+                    "name": "Speed",
+                    "class": {
+                        "id": 3,
+                        "name": "Hunter",
+                        "slug": "hunter"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 253,
+                        "name": "Beast Mastery",
+                        "slug": "beast-mastery",
+                        "class_id": 3,
+                        "role": "dps",
+                        "is_melee": false,
+                        "patch": "1.0.0",
+                        "ordinal": 0
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Speed",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            },
+            {
+                "role": "dps",
+                "character": {
+                    "id": 249666980,
+                    "persona_id": 56048190,
+                    "name": "Shuhdkdwarf",
+                    "class": {
+                        "id": 6,
+                        "name": "Death Knight",
+                        "slug": "death-knight"
+                    },
+                    "race": {
+                        "id": 3,
+                        "name": "Dwarf",
+                        "slug": "dwarf",
+                        "faction": "alliance"
+                    },
+                    "faction": "alliance",
+                    "level": 80,
+                    "spec": {
+                        "id": 251,
+                        "name": "Frost",
+                        "slug": "frost",
+                        "class_id": 6,
+                        "role": "dps",
+                        "is_melee": true,
+                        "patch": "3.0.0",
+                        "ordinal": 1
+                    },
+                    "path": "/characters/eu/eu-mythic-dungeons/Shuhdkdwarf",
+                    "realm": {
+                        "id": 2571,
+                        "connectedRealmId": 800,
+                        "wowRealmId": null,
+                        "wowConnectedRealmId": 4606,
+                        "name": "EU Mythic Dungeons",
+                        "altName": null,
+                        "slug": "eu-mythic-dungeons",
+                        "altSlug": "eu-mythic-dungeons",
+                        "locale": "en_GB",
+                        "isConnected": false,
+                        "realmType": "tr"
+                    },
+                    "region": {
+                        "name": "Europe",
+                        "slug": "eu",
+                        "short_name": "EU"
+                    },
+                    "stream": null,
+                    "recruitmentProfiles": [],
+                    "flags": {}
+                },
+                "oldCharacter": null,
+                "isTransfer": false
+            }
+        ],
+        "eventTeam": {
+            "id": 54818,
+            "groupId": 2275998,
+            "name": "Scaffolding",
+            "type": 3,
+            "slug": "scaffolding",
+            "region": {
+                "id": 2,
+                "name": "United States & Oceania",
+                "short_name": "US",
+                "slug": "us",
+                "created_at": "2017-01-17T01:06:34.000Z",
+                "updated_at": "2017-01-17T01:06:34.000Z",
+                "deleted_at": null
+            },
+            "teamEventProfileUrl": "/event-teams/mythic-dungeon-international/scaffolding",
+            "owner": {
+                "name": "Kiznog",
+                "avatar": "",
+                "profile_privacy": "private",
+                "id": 361481
+            },
+            "faction": "mixed",
+            "members": [
+                {
+                    "name": "Lazel",
+                    "avatar": "spell_deathknight_bloodpresence",
+                    "profile_privacy": "public",
+                    "id": 27619,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Speedyo",
+                    "avatar": "ability_rogue_masterofsubtlety",
+                    "profile_privacy": "public",
+                    "id": 44385,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Krona13",
+                    "avatar": "inv_misc_petmoonkinta",
+                    "profile_privacy": "private",
+                    "id": 230627,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Pillowchewer",
+                    "avatar": null,
+                    "profile_privacy": null,
+                    "id": 296665,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                },
+                {
+                    "name": "Kiznog",
+                    "avatar": "",
+                    "profile_privacy": "private",
+                    "id": 361481,
+                    "isRegistered": true,
+                    "isCheckinAccepted": false
+                }
+            ],
+            "status": "eligible",
+            "bracketTeam": {
+                "id": 6154,
+                "bracketId": 271,
+                "teamId": 54818,
+                "bracketTeamName": "Scaffolding",
+                "regionId": null,
+                "subRegionId": null,
+                "registered": true,
+                "seed": null,
+                "checkedInAt": null,
+                "checkedOutAt": null,
+                "points": 0,
+                "noteHtml": null,
+                "noteIcon": null,
+                "createdAt": "2025-11-19T02:43:06Z"
+            }
+        }
+    }
+]

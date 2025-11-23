@@ -1,0 +1,64 @@
+/* Page Dark Mode */
+body {
+  margin: 0;
+  padding: 0;
+  background: #0e0e11;
+  color: #e6e6e9;
+  font-family: Inter, Arial, sans-serif;
+}
+
+/* Modern Dark Table */
+.my-table {
+  width: 100%;
+  border-collapse: collapse;
+  backdrop-filter: blur(6px);
+  background: #16161a;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* Headers + Cells */
+.my-table tr {
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+.my-table td, .my-table th {
+  padding: 12px 16px;
+}
+
+/* Header Style */
+.my-table th {
+  background: #1f1f24;
+  font-weight: 600;
+  text-align: left;
+  color: #f0f0f5;
+}
+
+/* Even Row Striping */
+.my-table tr:nth-child(even) {
+  background: #1a1a1f;
+}
+
+/* Hover */
+.my-table tr:hover {
+  background: #2a2a33;
+  transition: background 0.2s ease;
+}
+
+.teamImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+}
+.imageTd {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.greyText {
+  color: #888888;
+  font-size: 14px;
+}
+.rankRow {
+  width: 20px;
+}
