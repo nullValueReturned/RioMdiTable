@@ -89,7 +89,7 @@ const MyComp = ({ myData }: MyCompProps) => {
   );
   return (
     <div className="mdiTableWrapper">
-        <h3>Mythic Dungeon International Standings</h3>
+        <h3>MDI standings</h3>
       {
         <table className="mdiTable">
           <thead>
