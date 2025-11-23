@@ -1,15 +1,9 @@
 import { useCallback } from "react";
 import RunInfo from "./RunInfo";
-import type { IRankedTeams, Run } from "./types/IRankedTeams";
+import type { IRankedTeams, Run } from "../types/IRankedTeams";
 
 type TDungeon = "Ara-kara" | "HoA" | "PSF" | "Flood" | "Streets";
-const AllDungeons: TDungeon[] = [
-  "Ara-kara",
-  "HoA",
-  "PSF",
-  "Flood",
-  "Streets",
-];
+const AllDungeons: TDungeon[] = ["Ara-kara", "HoA", "PSF", "Flood", "Streets"];
 
 const zoneIdToName: (zoneId: number) => TDungeon | "Unknown" = (
   zoneId: number
@@ -71,24 +65,28 @@ const getDungeonScoreAndTimeFromRun = (run: Run | undefined) => {
   return { dungeonScore, formattedTime };
 };
 
-
-
 type MyCompProps = {
   myData: IRankedTeams[];
 };
 
 const MyComp = ({ myData }: MyCompProps) => {
   // check if the given run is the global best run for the dungeon for all teams
-const isGlobalBestRunForDungeon = useCallback((run: Run, dungeonName: TDungeon) => {
-  const dungeonRunsForDugeon = myData.map(team => getDungeonRunFromRun(team.runs, dungeonName)).filter(r => r !== undefined) as Run[];
-  const bestRun = dungeonRunsForDugeon.reduce((best, current) => {
-    return current.mythicLevel > best.mythicLevel ||
-      (current.mythicLevel === best.mythicLevel && current.clearTimeMs < best.clearTimeMs)
-      ? current
-      : best;
-  }, dungeonRunsForDugeon[0]);
-  return run.loggedRunId === bestRun.loggedRunId;
-}, [myData]); 
+  const isGlobalBestRunForDungeon = useCallback(
+    (run: Run, dungeonName: TDungeon) => {
+      const dungeonRunsForDugeon = myData
+        .map((team) => getDungeonRunFromRun(team.runs, dungeonName))
+        .filter((r) => r !== undefined) as Run[];
+      const bestRun = dungeonRunsForDugeon.reduce((best, current) => {
+        return current.mythicLevel > best.mythicLevel ||
+          (current.mythicLevel === best.mythicLevel &&
+            current.clearTimeMs < best.clearTimeMs)
+          ? current
+          : best;
+      }, dungeonRunsForDugeon[0]);
+      return run.loggedRunId === bestRun.loggedRunId;
+    },
+    [myData]
+  );
   return (
     <div className="my-app">
       {

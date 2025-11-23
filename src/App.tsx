@@ -1,5 +1,5 @@
 import './App.css'
-import MyComp from './MyComp'
+import MyComp from './MdiTable/MdiTable'
 import data from "./data.json";
 import type { IRankedTeams } from './types/IRankedTeams';
 
